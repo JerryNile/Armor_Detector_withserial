@@ -1,0 +1,3 @@
+/home/louyi/Documents/finalTask/final/Armor/build/CMakeFiles/rebuild_cache.dir
+/home/louyi/Documents/finalTask/final/Armor/build/CMakeFiles/Armor.dir
+/home/louyi/Documents/finalTask/final/Armor/build/CMakeFiles/edit_cache.dir
